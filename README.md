@@ -66,7 +66,7 @@ Topluluktan bazı gönüllüler bu belgeyi farklı dillere çevirmekte bizlere y
   - Sözleşme Türleri
   - Birimler ve Global Olarak Mevcut Değişkenler
   - İfadeler ve Kontrol Yapıları
-  - Sözleşmeler
+  - Sözleşmeler 
   - Solidity Assembly
   - Çeşitli
   - Solidity v0.5.0 Değişiklikleri
