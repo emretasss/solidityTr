@@ -40,7 +40,7 @@ Topluluktan bazı gönüllüler bu belgeyi farklı dillere çevirmekte bizlere y
 + [French](http://solidity-fr.readthedocs.io/) (yapım aşamasında)
 
 ## İçerik
-
+ 
 + Akıllı Sözleşmelere Giriş
   - Basit Bir Akıllı Sözleşme
   - Blockchain Temelleri
