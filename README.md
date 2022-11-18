@@ -125,7 +125,7 @@ Topluluktan bazı gönüllüler bu belgeyi farklı dillere çevirmekte bizlere y
   - Temel sorular
   - Gelişmiş Sorular
 + LLL
-
+ 
 # Akıllı Sözleşmelere Giriş
 
 ## Basit Bir Akıllı Sözleşme
