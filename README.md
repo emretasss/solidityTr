@@ -623,7 +623,7 @@ Fikir, kullanılan her oy başına bir sözleşme oluşturmak ve her sözleşme 
 Adreslerin arkasındaki kişiler oylama sırasında kendilerini oylayabilir veya oylarını güvendikleri bir kişiye devredebilirler.
 
 Oylama süresinin sonunda, winningProposal() fonksiyonu ile en yüksek oyu alan belirlenecek ve bu kişi oylamayı kazanacaktır.
-
+ 
 ```
 pragma solidity >=0.4.22 <0.6.0;
 
